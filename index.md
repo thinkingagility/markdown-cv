@@ -1,3 +1,8 @@
+---
+layout: CV
+title: Derrick Wheals' resume 
+---
+
 ## DERRICK WHEALS
 
  * _Visa status: **Australian Permanent Resident** (Skilled independent (Permanent) subclass 189)_ 
