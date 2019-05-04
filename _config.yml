@@ -1,2 +1,12 @@
-markdown:   kramdown
-style:  davewhipp
+---
+title: Thinkingagility.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+markdown: kramdown
+style: davewhipp

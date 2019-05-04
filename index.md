@@ -1,6 +1,6 @@
 ---
+title: Derrick Wheals' resume
 layout: CV
-title: Derrick Wheals' resume 
 ---
 
 ## DERRICK WHEALS
