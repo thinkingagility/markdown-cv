@@ -2,7 +2,7 @@
 <center><span style="font-family:Avenir Next; font-size:2.5em; font-color:#707B7C">Derrick Wheals</span></center>
 <center><span style="font-family:Avenir Next; font-size:1.0em;">Email: derrick.wheals@gmail.com</span></center>
 <center><span style="font-family:Avenir Next; font-size:1.0em;">LinkedIn: www.linkedin.com/in/derrick-wheals</span></center>
-<center><span style="font-family:Avenir Next; font-size:1.0em;">Mobile: `04 9110 8200`</span></center>
+<center><span style="font-family:Avenir Next; font-size:1.0em;">Mobile: 04 9110 8200</span></center>
 <center><span style="font-family:Avenir Next; font-size:0.8em;">Australian Permanent Resident (Australian citizenship application in progress (expected late 2019)</span></center>
 <br>
 </div>
