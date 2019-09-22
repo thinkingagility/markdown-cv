@@ -18,11 +18,13 @@ A scrum master with many years of experience in software development. Focused on
 <center><span style="font-family:Avenir Next; font-size:1.25em; font-weight:bold">Key Skills</span></center>
 </div>
 <hr>
+<div markdown="1">
 <center>
 **Scrum** | **SAFe** | **Kanban** | **Facilitation and collaboration** | **Problem solving** | **Root cause analysis** | **Release planning** | **Stakeholder management** | **Dependency management** | **Coaching**
 <br>
 **Jira and Confluence** (3+ year's experience) | **Jira Align** (AgileCraft) (1+ year's experience) | **Team Foundation Server** (TFS)
 </center>
+</div>
 <hr>
 <div style="background-color:#4863A0; color:white">
 <center><span style="font-family:Avenir Next; font-size:1.25em; font-weight:bold">Key Achievements</span></center>
