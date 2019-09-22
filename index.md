@@ -9,7 +9,7 @@
 <br>
 <center><span style="font-family:Avenir; font-size:1.5em; font-weight:bold;">Scrum Master / Agile Project Manager</span></center>
 <center><span style="font-family:Avenir Next; font-size:1em; font-style:italic;">
-A scrum master with many years of experience in software development. Focussed on working with teams using Scrum, Kanban and SAFe to drive optimal efficiency. Meticulous and detail oriented; keenly interested in productivity practices. Also possesses a technical background and the ability to understand complex systems. Takes initiative and has demonstrated effective project management outcomes.
+A scrum master with many years of experience in software development. Focused on working with teams using Scrum, Kanban and SAFe to drive optimal efficiency. Meticulous and detail oriented; keenly interested in productivity practices. Also possesses a technical background and the ability to understand complex systems. Takes initiative and has demonstrated effective project management outcomes.
 
 17+ years in the ICT industry,  8+ years as a scrum master
 </span></center>
@@ -30,7 +30,7 @@ A scrum master with many years of experience in software development. Focussed o
 <hr>
 
 - On-time delivery of new product increments for 3 years running while at NTT Ltd (formerly  Dimension Data)
-- 7 successful SAFe program increments
+- Team scrum master for 7 successful SAFe program increments
 - Introduced innovative team retrospectives
 - Designed unique visual management boards and metrics to provide feedback to stakeholders on the team's progress at Westpac
 - Established a small software development company in South Africa. 
